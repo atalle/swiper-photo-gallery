@@ -1,5 +1,5 @@
 # Swiper Photo Gallery
-A simple photo gallery using [Swiper](http://swiperjs.com/),a JS animation from [Popmotion](https://popmotion.io/), and a couple images from my small COVID wedding!
+A simple photo gallery using [Swiper](http://swiperjs.com/), a JS animation from [Popmotion](https://popmotion.io/), and a couple images from my small COVID wedding!
 
 Completed as a quick exercise on using someone else's code.
 
